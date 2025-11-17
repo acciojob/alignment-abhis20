@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+body{
+	padding:0;
+	margib:0 ;
+	box-sizing:border-box;
+}
+.middle{
+	width:80%;
+	height:100px;
+}
+#t31{
+	background:green;
+}
+#t33{
+	background:blue;
+}
+h1{
+	text-align:center;
+}
+#t12{
+	text-align:center;
+}
+#t13{
+	text-align:right;
+}
+#table-3{
+	text-align:center;
+}
